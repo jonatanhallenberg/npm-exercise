@@ -1,9 +1,5 @@
 .App {
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .App-logo {
@@ -40,53 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.picker {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 1rem;
-}
-
-.date-picker {
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-}
-
-
-.test-link {
-  color: blue;
-  font-weight: 700;
-  font-size: 0.9rem;
-  cursor: pointer;
-  margin: 0.2rem 0;
-}
-
-.tests {
-  display: flex;
-  flex-direction: column;
-  margin-top: 1rem;
-}
-
-.day-list {
-  display: flex;
-  flex-direction: column;
-  margin: 1rem 0;
-}
-
-.red-day {
-  display: flex;
-  flex-direction: row;
-}
-
-.red-day-date {
-  padding-right: 0.5rem;
-}
-
-.b { font-weight: 600; }
-
-.p1 { padding: 0.1rem; }
-.p2 { padding: 0.2rem; }
-.p3 { padding: 0.3rem; }
-.p4 { padding: 0.4rem; }
-
