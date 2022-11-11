@@ -1,5 +1,7 @@
+(c) Victor Cottin @ wecodebetter.se
+
 # NPM
-Work in groups of 2 and follow the instructions below step by step and make sure to write down answers to any questions marked with a :camel:. Write down your answers inside this README.md file. These questions will be discussed during class.
+Work in your groups and follow the instructions below step by step and make sure to write down answers to any questions marked with a :camel:. Write down your answers inside this README.md file.
 
 ### In this lab we will learn:
 
